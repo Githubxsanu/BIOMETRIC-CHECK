@@ -1,0 +1,7 @@
+{
+  "name": "BioGuard - Biometric Identity Suite",
+  "description": "A high-precision biometric registration and identification system powered by Gemini Vision. Capture facial, iris, and ear features for secure identification.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
